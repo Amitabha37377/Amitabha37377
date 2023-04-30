@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Some Web Development Projects**
 
-- 🌱 I’m currently learning **React JS, Python, C++, lua**
+- 🌱 I’m currently learning **React JS, lua**
 
 - 💬 Ask me about **Any Linux Related Stuffs, Front End Web Development or anything else.**
 
