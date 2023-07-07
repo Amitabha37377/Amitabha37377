@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitabha37377" alt="amitabha37377" /></a> </p>
 
-- 🔭 I’m currently working on **Some Web Development Projects**
+- 🔭 I’m currently working on **A new awesome wm theme**
 
 - 🌱 I’m currently learning **React JS, lua**
 
-- 💬 Ask me about **Any Linux Related Stuffs, Front End Web Development or anything else.**
 
 - :smile: I like customizing window managers and exploring new things
 
